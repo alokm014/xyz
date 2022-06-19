@@ -1,0 +1,40 @@
+{
+	"get_number":
+	{
+		"tag": "p",
+		"div": "class",
+		"field": "contact-info"
+	},
+	"get_rating":
+	{
+		"tag": "span",
+		"div": "class",
+		"field": "star_m"
+	},
+	"get_name":
+	{
+		"tag": "span",
+		"div": "class",
+		"field": "jcn"
+	},
+	"get_rating_count":
+	{
+		"tag": "span",
+		"div": "class",
+		"field": "rt_count"
+	},
+	"get_address":
+	{
+		"tag": "span",
+		"div": "class",
+		"field": "mrehover"
+	},
+	"get_location":
+	{
+		"tag": "a",
+		"div": "class",
+		"field": "rsmap"
+	},
+	"extract_pages": 50
+         
+}
